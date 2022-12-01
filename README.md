@@ -1,8 +1,4 @@
-# Study Oriented 
-some files related to study
-BESE software at NCIT In POkhara University
-This repository is for managing some files or documents related to study.
-some presentations reports 
-some important assignment
-some documentation files.google docs 
-some topics that are important for future
+# Study Oriented
+
+Welcome to StudyPlus, a repository designed to help you organize all your study-related resources in one place.
+This repository contains reports, documents, presentations, and assignments, all organized by subject for easy access.
