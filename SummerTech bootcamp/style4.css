@@ -1,0 +1,162 @@
+.main-container{
+    display: flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+}
+
+
+#nav-bar{
+    display:flex;
+    align-self: center;
+    align-items:center ;
+    justify-content: space-evenly;
+    width:"70%";
+    padding: 30px;
+    display: block;
+    border-bottom-width: 10px;
+    border-bottom-color: gray;
+    position: sticky;
+}
+.nav-title{
+    font-size: 2em;
+    color:blue;
+    font-family:'Courier New', Courier, monospace
+
+}
+.nav-item{
+    font-size: 1.6em;
+    padding-left: 2em;
+}
+#nav-button{
+    padding: left ;
+    display: inline-block;
+    padding: 10px 10px;
+    border:2px;
+    height: 40px;
+    width: 100px;
+} 
+.imgcon1{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content:center;
+}
+.img1{
+    height: 200px;
+    width: 200px;
+
+}
+.download-text1{
+    font-size:10px;
+    font-weight:lighter ;
+    color: blue;
+    padding:0;
+
+}
+.scrol{
+    flex:1;
+    font-size: small;
+    color:black;
+}
+
+firstcon{
+    display: flex;
+    flex-direction: column;
+    background-color: gray;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+.imgcon{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content:center;
+
+}
+.img2{
+    height: 200px;
+    width: 200px;
+}
+.skillcon{
+    flex:1;
+   
+}
+.skillTitle{
+    font-weight: bold;
+    font-size: 20px;
+}
+.skilldef{
+    font-weight:lighter;
+    font-size: 10px;
+}
+
+.iconscon{
+display: flex;
+flex-direction: row;
+padding: 30px;
+justify-content: space-between;
+
+} 
+.icontitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icontext{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px;
+}
+.download-text{
+    font-size:16px;
+    font-weight:bold ;
+    color: red;
+    padding:0;
+
+}
+.photo{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: space-between;
+}
+.img3{
+    height: 200px;
+    width: 200px;
+    align-items: right;
+}
+
+.phototext{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px;
+}
+.smallimg{
+    height: 10px;
+    width: 10px;
+    display: flex;
+    flex-direction:column;
+    padding: 10px;
+    justify-content: space-between;
+}
+.social-media{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.social{
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0px;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    padding: 1px;
+    justify-content: space-between;
+}   
