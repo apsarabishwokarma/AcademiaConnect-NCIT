@@ -1,0 +1,17 @@
+#Here is a simple Python code for a login page that takes input from the user for a username and password and compares it to a predefined set of valid credentials.
+
+
+
+# Define valid credentials
+valid_username = "admin"
+valid_password = "password"
+
+# Get input from user
+username = input("Enter your username: ")
+password = input("Enter your password: ")
+
+# Check if input matches valid credentials
+if username == valid_username and password == valid_password:
+    print("Access granted.")
+else:
+    print("Access denied. Invalid username or password.")
