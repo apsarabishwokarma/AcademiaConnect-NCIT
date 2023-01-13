@@ -15,3 +15,7 @@ if username == valid_username and password == valid_password:
     print("Access granted.")
 else:
     print("Access denied. Invalid username or password.")
+
+
+#This is just a simple example and in the real world, it is not recommended to hardcode the credentials and it is better to use some kind of database to store the credentials.
+Also, it is highly recommended to use encryption to store the passwords.
