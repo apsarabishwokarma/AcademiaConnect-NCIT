@@ -4,3 +4,4 @@ BESE software at NCIT In POkhara University
 This repository is for managing some files or documents related to study.
 some presentations reports 
 some important assignment
+some documentation files.google docs 
