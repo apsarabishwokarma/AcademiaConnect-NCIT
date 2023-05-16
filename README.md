@@ -6,5 +6,7 @@ This repository contains reports, documents, presentations, and assignments, all
 
 "EduShareDesk" suggests a virtual desk or workspace where students can collaborate and share their notes, assignments, presentations, and other study-related resources.
 
+[Presence](https://docs.google.com/document/d/1Yuau-yEzTVNs33CxPs_xPLmITsYptCtOM98tADxVWIo/edit)
+
 [docs
 ](https://docs.google.com/document/d/1Wk9SJFLobd46s-FWx43srf8Xsi9eJzfJT96eLeffN48/edit#heading=h.7j4lztpno0v0)
